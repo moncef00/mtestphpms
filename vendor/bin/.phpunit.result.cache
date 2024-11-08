@@ -1,0 +1,1 @@
+{"version":1,"defects":{"TravelSorterTest::testOrderedItinerary":7,"TravelSorterTest::testItineraryWithLoop":8,"TravelSorterTest::testSingleCardItinerary":7},"times":{"TravelSorterTest::testOrderedItinerary":0.002,"TravelSorterTest::testItineraryWithLoop":0,"TravelSorterTest::testSingleCardItinerary":0}}
