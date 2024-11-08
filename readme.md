@@ -35,9 +35,9 @@ This project provides an API that sorts travel segments and generates a step-by-
 
         Structure du Projet
         project-root/
-        ├── App/
-        │   ├── public/
-        │   │   ├── index.php
+        ├── public/
+        │   ├── index.php
+        ├── src/
         │   ├── enum/
         │   │   ├── TransportType.php
         │   ├── models/
@@ -55,11 +55,11 @@ This project provides an API that sorts travel segments and generates a step-by-
         └── README.md
 Description des Dossiers et Fichiers
    
-     App/: Ce répertoire contient tout le code applicatif.
+     public/: Contient les fichiers public .
 
-         public/: Contient les fichiers public .
+            index.php: le fichier index. 
 
-            index.php: le fichier index.
+     src/: Ce répertoire contient tout le code applicatif.
          
         enum/: Contient les énumérations.
 
