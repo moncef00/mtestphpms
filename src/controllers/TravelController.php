@@ -10,6 +10,9 @@ use App\models\FlightCard;
 class TravelController {
 
 
+    /**
+     * @throws \Exception
+     */
     public function displayItinerary() {
         $cards = [
         new TrainCard("78A", "Madrid", "Barcelone", "45B"),
